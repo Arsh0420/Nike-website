@@ -126,6 +126,7 @@ html, body{
     padding: 110px 100px;
     white-space: nowrap;
     overflow-x: auto;
+    overflow-y: hidden;
 }
 .content-right::-webkit-scrollbar{
     display: none;
